@@ -7,4 +7,5 @@
 ***haha im silly***
 
 [PyChat](https://brendantcc.github.io/PyChat) - PyChat page
+
 [Or view the repo!](https://github.com/brendantcc/PyChat/)
