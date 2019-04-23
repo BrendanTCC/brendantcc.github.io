@@ -1,6 +1,7 @@
 # BrendanTCC@GitHub.io
-` _          _ _`
-`| |__   ___| | | ___`
-`| '_ \ / _ \ | |/ _ \`
-`| | | |  __/ | | (_) |`
-`|_| |_|\___|_|_|\___/`
+
+## G'day!
+### I'm a silly doofus haha
+
+`oh look some code now`
+***haha im silly***
